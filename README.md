@@ -1,2 +1,2 @@
-# teja-sreenivas.github.io
+# github pages
 Home page of my portfolio 
